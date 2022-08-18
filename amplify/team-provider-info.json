@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-graphsqlsamplejavasc-dev-71934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::176415143092:role/amplify-graphsqlsamplejavasc-dev-71934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::176415143092:role/amplify-graphsqlsamplejavasc-dev-71934-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-graphsqlsamplejavasc-dev-71934-deployment",
+      "UnauthRoleName": "amplify-graphsqlsamplejavasc-dev-71934-unauthRole",
+      "StackName": "amplify-graphsqlsamplejavasc-dev-71934",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:176415143092:stack/amplify-graphsqlsamplejavasc-dev-71934/d7a1abc0-1f43-11ed-b13c-06ae4fe5337d",
+      "AmplifyAppId": "d3pxaoq2wcei9q"
+    }
+  }
+}
